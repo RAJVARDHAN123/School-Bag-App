@@ -32,6 +32,7 @@ function mousePressed() {
         }
       }
     }
+    
     // Prevent default functionality.
     return false;
   }
